@@ -3,9 +3,16 @@
   "app": "jamily-reunion",
   "channel": "beta",
   "platform": "windows",
-  "latest_version": "2.8.5",
+  "latest_version": "2.8.6",
   "published": "2026-11-06",
-  "notes": ["Current beta release."],
-  "download_url": "https://drive.google.com/file/d/1EDtYwt2BcTCSjtZARhgOi-2Avzb6jjVx/view",
-  "sha256": "ec947f4d7708f47e745c1e8392cfb8344ebcb41a0015d2386958caac624c709e"
+  "download_url": "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.8.6/Jamily-Reunion-2.8.6-Setup.exe",
+  "sha256": "7c890486cff01c7a842c71b2e36b6d9139d78db928247eb88800232fcd307b15",
+  "notes": [
+    "New Update button: download and install future updates in one click",
+    "Update notices on the splash screen, Settings cog and Help → Updates",
+    "Chat starts fresh with each new session or stream",
+    "Stream Summary: click a name to open their profile; deleted tags stay deleted; trash icon for topic suggestions",
+    "Zoom slider now goes from 100% to 200%",
+    "Shorter LIVE Stat Dock settings tiles"
+  ]
 }
