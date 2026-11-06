@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "app": "jamily-reunion",
+  "channel": "beta",
+  "platform": "windows",
+  "latest_version": "2.8.5",
+  "published": "2026-11-06",
+  "notes": ["Current beta release."],
+  "download_url": "https://drive.google.com/file/d/1EDtYwt2BcTCSjtZARhgOi-2Avzb6jjVx/view",
+  "sha256": "ec947f4d7708f47e745c1e8392cfb8344ebcb41a0015d2386958caac624c709e"
+}
