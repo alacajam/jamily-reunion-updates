@@ -3,15 +3,12 @@
   "app": "jamily-reunion",
   "channel": "beta",
   "platform": "windows",
-  "latest_version": "2.8.7",
+  "latest_version": "2.8.8",
   "published": "2026-11-07",
-  "download_url": "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.8.7/Jamily-Reunion-2.8.7-Setup.exe",
-  "sha256": "e0738e194cf7ab527accd9c452dc03002652051e351cad6fbda8a18ab1aca7ad",
+  "download_url": "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.8.8/Jamily-Reunion-2.8.8-Setup.exe",
+  "sha256": "237a83465dda5e5b2910df3bb3a65464637a9e1af22aff844f344914740046b1",
   "notes": [
-    "Zelda titles share one profile badge. New Interests picker and Details box.",
-    "Twitch Setup separates Reconnect from Reauthorize, with activation codes on Welcome and the splash.",
-    "Shared Chat colors, Twitch slash commands and an updated OBS Bubble overlay.",
-    "Stream Review uses stronger game evidence and supports dated topic reminders.",
-    "Raid and category markers on the viewer chart, plus optional raid ad snoozing."
+    "Hotfix: text to speech reads chat messages again (broken since 2.8.6; alerts still spoke).",
+    "Includes everything from 2.8.7."
   ]
 }
