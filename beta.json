@@ -3,12 +3,14 @@
   "app": "jamily-reunion",
   "channel": "beta",
   "platform": "windows",
-  "latest_version": "2.8.8",
-  "published": "2026-11-07",
-  "download_url": "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.8.8/Jamily-Reunion-2.8.8-Setup.exe",
-  "sha256": "237a83465dda5e5b2910df3bb3a65464637a9e1af22aff844f344914740046b1",
+  "latest_version": "2.8.9",
+  "published": "2026-11-08",
+  "download_url": "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.8.9/Jamily-Reunion-2.8.9-Setup.exe",
+  "sha256": "ca008ae524cbd87d99aa0796a82342b460b5ec3aed79af9191886a3b0b47cbfd",
   "notes": [
-    "Hotfix: text to speech reads chat messages again (broken since 2.8.6; alerts still spoke).",
-    "Includes everything from 2.8.7."
+    "Ad Manager beside Quick Actions: pre-roll free time fuse, next ad, snooze and 1/2/3-minute ad breaks.",
+    "Quick Actions buttons sit in Twitch's header row; Currently LIVE pages with Previous/Next.",
+    "AutoMod-held messages show above the chat box with Allow / Deny (Reauthorize Twitch once).",
+    "Raid switches back to Shoutout after the stream; Review Stream closes after saving; New Session hides after use; editable Streamer badge thresholds."
   ]
 }
