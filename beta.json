@@ -3,13 +3,13 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9",
-    "published":  "2026-11-11",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9/Jamily-Reunion-2.9-Setup.exe",
-    "sha256":  "11db7df79cec4c1d208526e0b98347db4d24aff171f6c4a7d5e2a3a0e7b45e1c",
+    "latest_version":  "2.9.1",
+    "published":  "2026-11-12",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.1/Jamily-Reunion-2.9.1-Setup.exe",
+    "sha256":  "07cb74bc6dcd5ae66b14933cb703e1941ef2e09970ca80528d151f5136a1bba2",
     "notes":  [
-                  "Chatters list: Active Chatters, Lurkers (with photos, click to open a profile) and Recently Left; 10-minute active window; Channel Points count as activity.",
-                  "Steadier chat connection plus a disconnect log in Settings \u003e Help; review files clean themselves up.",
-                  "AI review games are selected by default; fixed an empty bar that could appear after Stream Review and New Session."
+                  "Chatters: quiet chatters past the first 25 cards now reach Lurkers / Recently Left; nobody is called Recently Left when Twitch presence is unavailable; one missed Twitch update no longer moves people.",
+                  "Topic suggestions: Hide and Delete only (no check marks). TTS can skip Channel Points redemptions and bot messages.",
+                  "Raid now on the raid banner; Review Stream shows game icons and lists the most details first."
               ]
 }
