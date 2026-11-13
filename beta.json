@@ -3,13 +3,14 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9.1",
-    "published":  "2026-11-12",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.1/Jamily-Reunion-2.9.1-Setup.exe",
-    "sha256":  "07cb74bc6dcd5ae66b14933cb703e1941ef2e09970ca80528d151f5136a1bba2",
+    "latest_version":  "2.9.3",
+    "published":  "2026-11-13",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.3/Jamily-Reunion-2.9.3-Setup.exe",
+    "sha256":  "fdef28029b0acfbc0c510231cb6797161c5573f3cb1acb912eac4632d4b65bc1",
     "notes":  [
-                  "Chatters: quiet chatters past the first 25 cards now reach Lurkers / Recently Left; nobody is called Recently Left when Twitch presence is unavailable; one missed Twitch update no longer moves people.",
-                  "Topic suggestions: Hide and Delete only (no check marks). TTS can skip Channel Points redemptions and bot messages.",
-                  "Raid now on the raid banner; Review Stream shows game icons and lists the most details first."
+                  "Chatters now show in pages (25 a page by default, Show up to 10/25/50/100); search and chat-name clicks find people on any page.",
+                  "Sort Chatters by Community Points; the number under each photo has a speech-bubble or trophy icon.",
+                  "Ad Manager: 1, 2 or 3-minute opening ad choice when you go live, and a reminder at 5 minutes of pre-roll protection.",
+                  "Includes 2.9.2: the weekly Community Leaderboard, !score and !top, and recap graphics."
               ]
 }
