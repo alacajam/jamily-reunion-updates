@@ -3,15 +3,15 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9.4",
-    "published":  "2026-11-14",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.4/Jamily-Reunion-2.9.4-Setup.exe",
-    "sha256":  "c4cf7f911fb9062433a3de8a8cc92291ca2cae1aa36ef0f9bbea3e3f82397b2e",
+    "latest_version":  "2.9.5",
+    "published":  "2026-11-15",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.5/Jamily-Reunion-2.9.5-Setup.exe",
+    "sha256":  "03694a71debdbaccc83f78013ff2c144cf9706544536f6c2131652cd1718c522",
     "notes":  [
-                  "BetterTTV, FrankerFaceZ and 7TV emotes (turn each on in Chat settings): shown in chat, the OBS overlay and the emote picker; text to speech skips them.",
-                  "Community Leaderboard, recap graphics and !top/!score now show Watching, Chatting and Supporting. Recap graphics default to Top 10.",
-                  "Performance Mode for slower PCs, and Messages kept on screen (100/200/500).",
-                  "New installs open at a comfortable size with chat and Reunion side by side.",
-                  "Includes 2.9.3: the weekly Community Leaderboard, Chatters pages and Ad Manager opening-ad choice."
+                  "Fixes the \"database is locked\" error and the chat connection dropping when a shoutout went out.",
+                  "Lurkers no longer keep people from earlier streams or people who left; someone who only redeemed Channel Points moves to Lurkers after 10 quiet minutes.",
+                  "!top (or your !leaderboard) now lists the top 5.",
+                  "Each new stream starts the Chatters list sorted by Last seen.",
+                  "Includes 2.9.4: BetterTTV/FrankerFaceZ/7TV emotes, Watching/Chatting/Supporting on the leaderboard and Performance Mode."
               ]
 }
