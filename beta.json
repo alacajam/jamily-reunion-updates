@@ -3,15 +3,18 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9.5",
-    "published":  "2026-11-15",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.5/Jamily-Reunion-2.9.5-Setup.exe",
-    "sha256":  "03694a71debdbaccc83f78013ff2c144cf9706544536f6c2131652cd1718c522",
+    "latest_version":  "2.9.6",
+    "published":  "2026-11-16",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.6/Jamily-Reunion-2.9.6-Setup.exe",
+    "sha256":  "ac2314d6924ef80f942bea83a5430889a89a2f2d5989817c91d89471fd8ce4b0",
     "notes":  [
-                  "Fixes the \"database is locked\" error and the chat connection dropping when a shoutout went out.",
-                  "Lurkers no longer keep people from earlier streams or people who left; someone who only redeemed Channel Points moves to Lurkers after 10 quiet minutes.",
-                  "!top (or your !leaderboard) now lists the top 5.",
-                  "Each new stream starts the Chatters list sorted by Last seen.",
-                  "Includes 2.9.4: BetterTTV/FrankerFaceZ/7TV emotes, Watching/Chatting/Supporting on the leaderboard and Performance Mode."
+                  "TikTok LIVE chat in Reunion (Settings \u003e Twitch Setup \u003e TikTok LIVE).",
+                  "YouTube live chat in Reunion (Settings \u003e Twitch Setup \u003e YouTube \u003e Connect YouTube).",
+                  "Confirmed non-followers stay out of Currently LIVE and All Chatters (Session chatters still shows them).",
+                  "Non-follower cleanup removes their profile after 7 days instead of 30.",
+                  "Chatters who leave move to Recently Left right away instead of after 10 minutes.",
+                  "Shorter leaderboard chat replies (!weekly by default, and !score), and profile pictures on the leaderboard and recap graphics.",
+                  "Raids count toward Supporting on the leaderboard.",
+                  "Includes the 2.9.5 fixes."
               ]
 }
