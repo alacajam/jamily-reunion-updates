@@ -3,18 +3,17 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9.6",
-    "published":  "2026-11-16",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.6/Jamily-Reunion-2.9.6-Setup.exe",
-    "sha256":  "ac2314d6924ef80f942bea83a5430889a89a2f2d5989817c91d89471fd8ce4b0",
+    "latest_version":  "2.9.7",
+    "published":  "2026-11-17",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.7/Jamily-Reunion-2.9.7-Setup.exe",
+    "sha256":  "3f1cd1d60a8447dc155527af84f0f7a23968f52be92990c50289d3aeac9a5ac6",
     "notes":  [
-                  "TikTok LIVE chat in Reunion (Settings \u003e Twitch Setup \u003e TikTok LIVE).",
-                  "YouTube live chat in Reunion (Settings \u003e Twitch Setup \u003e YouTube \u003e Connect YouTube).",
-                  "Confirmed non-followers stay out of Currently LIVE and All Chatters (Session chatters still shows them).",
-                  "Non-follower cleanup removes their profile after 7 days instead of 30.",
-                  "Chatters who leave move to Recently Left right away instead of after 10 minutes.",
-                  "Shorter leaderboard chat replies (!weekly by default, and !score), and profile pictures on the leaderboard and recap graphics.",
-                  "Raids count toward Supporting on the leaderboard.",
-                  "Includes the 2.9.5 fixes."
+                  "TikTok, YouTube and Kick chatters now earn Community Points for chatting and support, with or without a Twitch account.",
+                  "Viewers can link their TikTok, YouTube or Kick account to their Twitch profile themselves: !link @TwitchName in that chat, then !link yes on Twitch.",
+                  "Same name on two platforms? The chatter card suggests linking them, one click.",
+                  "The leaderboard lists people with at least 10 points this week (change it in Settings \u003e Community Leaderboard).",
+                  "Leaderboard: your community name in the title, a cleaner layout and a one-click recap preview.",
+                  "The activity feed opens instantly and scrolls straight away.",
+                  "Smoother post-stream page, steadier scroll bar, smaller chatter cards, and the Ad Manager in the chat header."
               ]
 }
