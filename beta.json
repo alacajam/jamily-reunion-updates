@@ -3,17 +3,16 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9.7",
-    "published":  "2026-11-17",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.7/Jamily-Reunion-2.9.7-Setup.exe",
-    "sha256":  "3f1cd1d60a8447dc155527af84f0f7a23968f52be92990c50289d3aeac9a5ac6",
+    "latest_version":  "2.9.8",
+    "published":  "2026-11-18",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.8/Jamily-Reunion-2.9.8-Setup.exe",
+    "sha256":  "c7478fa0a3c32219e294fbbd8285a986a98a893b77eb4aafde1bb3e186ac37dc",
     "notes":  [
-                  "TikTok, YouTube and Kick chatters now earn Community Points for chatting and support, with or without a Twitch account.",
-                  "Viewers can link their TikTok, YouTube or Kick account to their Twitch profile themselves: !link @TwitchName in that chat, then !link yes on Twitch.",
-                  "Same name on two platforms? The chatter card suggests linking them, one click.",
-                  "The leaderboard lists people with at least 10 points this week (change it in Settings \u003e Community Leaderboard).",
-                  "Leaderboard: your community name in the title, a cleaner layout and a one-click recap preview.",
-                  "The activity feed opens instantly and scrolls straight away.",
-                  "Smoother post-stream page, steadier scroll bar, smaller chatter cards, and the Ad Manager in the chat header."
+                  "A tidy-up update: the same text sizes, buttons, corners and colours on every page.",
+                  "One sort control everywhere: Stream Summary and Currently LIVE sort like Chatters.",
+                  "Settings is shorter: one line under each setting; the details moved to Settings \u003e Help.",
+                  "Leaderboard: a mark for each platform when someone has more than one linked (also on the recap and OBS overlays).",
+                  "The subscriber bonus bubble looks different for each tier.",
+                  "Compact chatter cards show Active chat time instead of time watched."
               ]
 }
