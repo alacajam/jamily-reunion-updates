@@ -3,16 +3,15 @@
     "app":  "jamily-reunion",
     "channel":  "beta",
     "platform":  "windows",
-    "latest_version":  "2.9.8",
-    "published":  "2026-11-18",
-    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.8/Jamily-Reunion-2.9.8-Setup.exe",
-    "sha256":  "c7478fa0a3c32219e294fbbd8285a986a98a893b77eb4aafde1bb3e186ac37dc",
+    "latest_version":  "2.9.9",
+    "published":  "2026-11-21",
+    "download_url":  "https://github.com/alacajam/jamily-reunion-updates/releases/download/v2.9.9/Jamily-Reunion-2.9.9-Setup.exe",
+    "sha256":  "05f33cbc0d94beaa29f124f055367a8b2ff6bbbf415087df41c8044f123972db",
     "notes":  [
-                  "A tidy-up update: the same text sizes, buttons, corners and colours on every page.",
-                  "One sort control everywhere: Stream Summary and Currently LIVE sort like Chatters.",
-                  "Settings is shorter: one line under each setting; the details moved to Settings \u003e Help.",
-                  "Leaderboard: a mark for each platform when someone has more than one linked (also on the recap and OBS overlays).",
-                  "The subscriber bonus bubble looks different for each tier.",
-                  "Compact chatter cards show Active chat time instead of time watched."
+                  "Build your own chat overlays in Settings -\u003e Stream overlays, with a live preview, a green dot for overlays open in OBS and a test message. Plus a new square Top 10 leaderboard overlay.",
+                  "Raid Back: turn on Raid in Currently LIVE and the people who raided you move to the top.",
+                  "TikTok viewer count next to Twitch\u0027s (right-click it to combine them), and a Following tab with everyone you follow who\u0027s live.",
+                  "Reunion\u0027s chat says who removed a message or person. Click Reauthorize Twitch once (Settings -\u003e Connections) to turn it on.",
+                  "Better chat: Twitch name colours, tidier grouped messages, TikTok @usernames and chat history. Settings has a sidebar and search."
               ]
 }
